@@ -18,6 +18,12 @@ ul {
   margin-top: 15px;
   margin-bottom: 15px; 
 }
+/* .flex-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+} */
 
 article {
   margin-left: 25px;
@@ -55,7 +61,7 @@ code {
   position: fixed;
   top: 0;
   left: 0;
-  width: 22%;
+  width: 15%;
   height: 100%;
   border-right: solid;
   border-color: #b3b5b6;
@@ -73,7 +79,7 @@ code {
 
 #docu {
   position: absolute;
-  margin-left: 280px;
-  padding: 40px;
   color: #696969;
+  width: 82%;
+
 }
